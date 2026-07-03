@@ -1,29 +1,27 @@
-# QM Media Platform
+# QuantumMedia Platform
 
-Mobile-first digital media platform for radio stations, sports media outlets, news publishers and independent media brands.
+Public prototype and showcase repo for **QuantumMedia Platform**, a web-only, mobile-first digital media platform by **QuantumLabs**.
 
-## Demo Client
+## Purpose
 
-La Red 106.1
+This repository is for public-facing prototypes, showcase demos and client skins.
 
-## Core Concept
+Private strategy, pricing, proposal logic, commercial documents and client discovery notes live only in the internal Notion OS.
 
-From website to digital media platform.
+## Product Concept
 
-## Demo Scope
+QuantumMedia Platform transforms traditional media websites into mobile-first digital platforms for content, live engagement, automation and monetization.
 
-- Home
-- En Vivo
-- Matches / Partidos
-- Programming / Programación
-- Article page
-- Editorial Assistant demo
-- Advertisers page
-- Proposal web page
+## Showcase Structure
 
-## Product Direction
+- QuantumMedia Platform core template
+- La Red Digital Platform showcase
+- Future Prensa Libre adaptation
+- Future media client demos
 
-This project is web-only and mobile-first. It is not a native iOS or Android app.
+## Web-Only Direction
+
+This is a responsive web platform optimized for mobile-first usage. It is not a native iOS or Android app.
 
 ## Initial Tech Direction
 
@@ -33,6 +31,19 @@ This project is web-only and mobile-first. It is not a native iOS or Android app
 - Local mock data
 - Vercel deployment
 
-## Operating System
+## Public Repo Rule
 
-Notion is the project OS. GitHub is the code workspace. Vercel is the demo showroom.
+Do include:
+
+- Prototype code
+- Showcase UI
+- Generic mock data
+- Public demo descriptions
+
+Do not include:
+
+- Internal proposal documents
+- Private pricing rationale
+- Client negotiation notes
+- Confidential discovery material
+- Strategic planning documents
